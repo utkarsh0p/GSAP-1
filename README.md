@@ -1,12 +1,24 @@
-# React + Vite
+# ✨ GSAP Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a simple front-end project built to practice and explore the basics of [GSAP (GreenSock Animation Platform)](https://greensock.com/gsap/).
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Basic animations using GSAP
+- DOM element transitions (scale, opacity, translate)
+- Timeline animations
+- Hover and scroll-based effects
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- GSAP
+
+## 🧪 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/gsap-practice.git](https://github.com/utkarsh0p/GSAP-1.git
